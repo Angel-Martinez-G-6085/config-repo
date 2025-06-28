@@ -2,4 +2,4 @@ server:
   port: 8081
 
 mi:
-  mensaje: "Mensaje acxtualizado sin recargar servicio"
+  mensaje: "segunda prueba de refresh"
