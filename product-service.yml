@@ -2,4 +2,4 @@ server:
   port: 8081
 
 mi:
-  mensaje: "Hola desde el Config Server"
+  mensaje: "Mensaje acxtualizado sin recargar servicio"
